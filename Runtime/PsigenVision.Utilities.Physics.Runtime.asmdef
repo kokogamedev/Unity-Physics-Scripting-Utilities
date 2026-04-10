@@ -1,0 +1,16 @@
+{
+    "name": "PsigenVision.Utilities.Physics.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e5e5959f49666c2478ffde6a41c9b426"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

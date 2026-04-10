@@ -1,0 +1,19 @@
+{
+    "name": "PsigenVision.Utilities.Physics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "PsigenVision.Utilities.Physics.Runtime",
+        "Unity.EditorCoroutines.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
