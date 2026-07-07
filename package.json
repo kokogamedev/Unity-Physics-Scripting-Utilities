@@ -1,7 +1,7 @@
 {
   "name": "com.psigenvision.utilities.physics",
   "displayName": "Unity Physics Utilities",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PsigenVision Physics Utilities is a toolbox for creating scalable and accurate physics simulations in Unity. It includes tools for vehicle physics, motion constraints, and collision filtering, all designed with simplicity and extensibility in mind.",
   "author": {
     "name": "David Kokoski",
